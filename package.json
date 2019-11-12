@@ -1,0 +1,9 @@
+{
+  "bin": {
+    "ainama-react-cli": "index.js"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "commander": "^4.0.1"
+  }
+}
