@@ -2,7 +2,7 @@
 const program = require('commander');
 var process1 = require('child_process');
 
-program.version('1.1.3', '-v, --version')
+program.version('1.1.4', '-v, --version')
   .command('init <name>')
   .action((name) => {
     console.log('clone template ...');
