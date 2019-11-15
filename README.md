@@ -2,8 +2,20 @@
 
 React template.
 
-``` js
-// package.json
+### Use
+```js
+
+sudo npm install ainama-react-cli
+
+cd <your path>
+
+ainama-react-cli init <name>
+
+```
+
+### package.json
+```js
+
 "dependencies": {
   "react": "^16.7.0",
   "react-dom": "^16.7.0",
@@ -27,4 +39,5 @@ React template.
   "webpack-cli": "^3.2.1",
   "webpack-dev-server": "^3.1.14"
 }
+
 ```
