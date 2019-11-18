@@ -2,13 +2,13 @@
 
 React template. Customize.
 
-server: node.js
+`server`: node.js
 
-style: sass
+`style`: sass
 
-js: react-router-dom react-redux lazy()
+`js`: react-router-dom react-redux lazy()
 
-plugins: code-splitting(js/css)
+`plugins`: code-splitting(js/css)
 
 ### Use
 ```js
@@ -21,7 +21,11 @@ ainama-react-cli init <name>
 
 cd <name>
 
-npm run start
+npm run server
+
+open http://localhost:3000/
+
+npm run webpack
 
 ```
 
