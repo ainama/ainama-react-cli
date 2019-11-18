@@ -13,7 +13,7 @@ React template. Customize.
 ### Use
 ```js
 
-sudo npm install ainama-react-cli
+sudo npm install ainama-react-cli -g
 
 cd <your path>
 
