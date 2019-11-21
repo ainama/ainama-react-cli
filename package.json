@@ -1,6 +1,6 @@
 {
   "name": "ainama-react-cli",
-  "version": "1.1.12",
+  "version": "1.1.13",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -16,13 +16,12 @@
     "commander": "^4.0.1"
   },
   "keywords": [
-    "react-cli",
-    "react cli",
-    "reactcli",
-    "cli-react",
-    "cli react",
     "cli",
-    "ainama react cli",
-    "ainama-react-cli"
+    "react-cli",
+    "react",
+    "react-router-dom",
+    "react-redux",
+    "lazy",
+    "code-splitting"
   ]
 }
