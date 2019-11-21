@@ -1,14 +1,6 @@
 # ainama-react-cli
 
-React template. Customize.
-
-`server`: node.js
-
-`style`: sass
-
-`js`: react-router-dom react-redux lazy()
-
-`plugins`: code-splitting(js/css)
+React template. Highly Customize. `style` use sass. `router` use react-router-dom. `data` use react-redux. `optimization` use lazy() & code-splitting. `service` use koa.js.
 
 ### Use
 ```js
